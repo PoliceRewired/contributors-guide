@@ -2,7 +2,7 @@
 
 We are a community of civic-minded developers, designers and creative problem-solvers building tools to fight crime and make people safer.
 
-If you'd like to find out more about us, check out: https://www.policecoders.org
+If you'd like to find out more about us, check out: https://www.policerewired.org
 
 ## Contributing to our projects
 
